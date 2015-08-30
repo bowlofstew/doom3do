@@ -41,7 +41,7 @@ and the main game could run without loss of memory.
 There was a Electronic Arts logo movie in the data, because there was a time that
 EA was going to be distributing the game, however the deal fell through.
 
-The verticle walls were drawn with strips using the cell engine. However, the 
+The vertical walls were drawn with strips using the cell engine. However, the 
 cell engine can't handle 3D perspective so the floors and ceilings were drawn
 with software rendering. I simply ran out of time to translate the code
 to use the cell engine because the implementation I had caused texture tearing.
